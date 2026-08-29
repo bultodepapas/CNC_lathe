@@ -2,6 +2,49 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="es" sourcelanguage="en">
     <context>
+        <name>HandlerClass</name>
+        <message>
+            <location filename="qtdragon_handler.py" line="420" />
+            <source>No File Loaded</source>
+            <translation>Ningún archivo cargado</translation>
+        </message>
+        <message>
+            <location filename="qtdragon_handler.py" line="429" />
+            <source>Continuous</source>
+            <translation>Continuo</translation>
+        </message>
+        <message>
+            <location filename="qtdragon_handler.py" line="463" />
+            <source>No Tool</source>
+            <translation>Sin herramienta</translation>
+        </message>
+        <message>
+            <location filename="qtdragon_handler.py" line="655" />
+            <source>PROGRESS</source>
+            <translation>PROGRESO</translation>
+        </message>
+        <message>
+            <location filename="qtdragon_handler.py" line="647" />
+            <source>LOADING</source>
+            <translation>CARGANDO</translation>
+        </message>
+        <message>
+            <location filename="qtdragon_handler.py" line="657" />
+            <source>COMPLETE</source>
+            <translation>COMPLETO</translation>
+        </message>
+        <message>
+            <location filename="qtdragon_handler.py" line="663" />
+            <source>ALL HOMED</source>
+            <translation>TODO REFERENCIADO</translation>
+        </message>
+        <message>
+            <location filename="qtdragon_handler.py" line="680" />
+            <source>HOME ALL</source>
+            <translation>REF. TODO</translation>
+        </message>
+    </context>
+    <context>
         <name>MainWindow</name>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="33" />
@@ -26,12 +69,12 @@
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="351" />
             <source>OFFSETS</source>
-            <translation>COMPENSACIONES</translation>
+            <translation>COMPENS.</translation>
         </message>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="13940" />
             <source>TOOL</source>
-            <translation>HERRAMIENTA</translation>
+            <translation>HERRAM.</translation>
         </message>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="17233" />
@@ -51,22 +94,22 @@
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="521" />
             <source>GCODES</source>
-            <translation>CÓDIGOS G</translation>
+            <translation>CÓD. G</translation>
         </message>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="555" />
             <source>SETUP</source>
-            <translation>CONFIGURACIÓN</translation>
+            <translation>CONFIG.</translation>
         </message>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="589" />
             <source>SETTINGS</source>
-            <translation>AJUSTES</translation>
+            <translation>AJUST.</translation>
         </message>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="623" />
             <source>UTILS</source>
-            <translation>UTILIDADES</translation>
+            <translation>UTIL.</translation>
         </message>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="657" />
@@ -1051,7 +1094,7 @@ ERROR</translation>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="9389" />
             <source>UNITS</source>
-            <translation>UNIDADES</translation>
+            <translation>UNID.</translation>
         </message>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="9441" />
@@ -1276,7 +1319,7 @@ PAUSADO</translation>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="13863" />
             <source>HOME</source>
-            <translation>REFERENCIAR</translation>
+            <translation>REF.</translation>
         </message>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="13860" />
@@ -1336,7 +1379,7 @@ PAUSADO</translation>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="12558" />
             <source>HOME ALL</source>
-            <translation>REFERENCIAR TODO</translation>
+            <translation>REF. TODO</translation>
         </message>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="12648" />
@@ -1638,7 +1681,7 @@ CERO</translation>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="16903" />
             <source>POWER</source>
-            <translation>POTENCIA</translation>
+            <translation>POT.</translation>
         </message>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="16934" />
@@ -1693,7 +1736,7 @@ CERO</translation>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="17155" />
             <source>AMPS</source>
-            <translation>AMPERIOS</translation>
+            <translation>A</translation>
         </message>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="17277" />
@@ -1703,7 +1746,7 @@ CERO</translation>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="17338" />
             <source>RUN TIME</source>
-            <translation>TIEMPO DE EJECUCIÓN</translation>
+            <translation>TIEMPO EJEC.</translation>
         </message>
         <message>
             <location filename="../../vendor/linuxcnc-2.9.7-qtdragon/usr/share/qtvcp/screens/qtdragon/qtdragon.ui" line="17366" />

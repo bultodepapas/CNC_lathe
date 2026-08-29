@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-08-29T16:21:02.398793+00:00",
+  "captured_at_utc": "2026-08-29T18:11:01.279492+00:00",
   "remote_host": "cnc.taila1b901.ts.net",
   "remote_access": "SFTP read-only plus fixed diagnostic commands",
   "host_key_sha256": "ZNIRznpkv44p0vgJTFxhNv10PLnl1t80+SbSXH2JLN0=",
@@ -52,6 +52,48 @@
       "bytes": 505,
       "mtime_utc": "2025-10-22T22:43:13+00:00",
       "sha256": "3cd326f29a124d9b6fc5235033cc2226584c5fe99148ff9616c139a332bb4e6d"
+    },
+    {
+      "remote_path": "/usr/lib/python3/dist-packages/qtvcp/widgets/action_button.py",
+      "local_path": "usr/lib/python3/dist-packages/qtvcp/widgets/action_button.py",
+      "bytes": 64730,
+      "mtime_utc": "2025-10-22T22:43:13+00:00",
+      "sha256": "3412a2bfc7c1008e188b4e2e46cb4c2fcd1b6b301bc759813f9e624cbd4e1ef1"
+    },
+    {
+      "remote_path": "/usr/lib/python3/dist-packages/qtvcp/widgets/file_manager.py",
+      "local_path": "usr/lib/python3/dist-packages/qtvcp/widgets/file_manager.py",
+      "bytes": 20736,
+      "mtime_utc": "2025-10-22T22:43:13+00:00",
+      "sha256": "19ca802a32691ce99d1bba627b48c854e450ab8ed888d9945aa532cc230aa0a6"
+    },
+    {
+      "remote_path": "/usr/lib/python3/dist-packages/qtvcp/widgets/gcode_editor.py",
+      "local_path": "usr/lib/python3/dist-packages/qtvcp/widgets/gcode_editor.py",
+      "bytes": 44058,
+      "mtime_utc": "2025-10-22T22:43:13+00:00",
+      "sha256": "b99839f27a6e6fbddb7cae4a34415e3f26d65ca4c52140dfa28b7d50971d37ea"
+    },
+    {
+      "remote_path": "/usr/lib/python3/dist-packages/qtvcp/widgets/jog_increments.py",
+      "local_path": "usr/lib/python3/dist-packages/qtvcp/widgets/jog_increments.py",
+      "bytes": 7432,
+      "mtime_utc": "2025-10-22T22:43:13+00:00",
+      "sha256": "72dfe028a92e4c561d79abc29d40b5a89321107dce9c63f187adc5c83657607e"
+    },
+    {
+      "remote_path": "/usr/lib/python3/dist-packages/qtvcp/widgets/status_label.py",
+      "local_path": "usr/lib/python3/dist-packages/qtvcp/widgets/status_label.py",
+      "bytes": 30721,
+      "mtime_utc": "2025-10-22T22:43:13+00:00",
+      "sha256": "853394b27c2a364ffb46e2d09b57ca6a1217c7dfe12ea70248eec2cc0e72bf07"
+    },
+    {
+      "remote_path": "/usr/lib/python3/dist-packages/qtvcp/widgets/tool_offsetview.py",
+      "local_path": "usr/lib/python3/dist-packages/qtvcp/widgets/tool_offsetview.py",
+      "bytes": 23190,
+      "mtime_utc": "2025-10-22T22:43:13+00:00",
+      "sha256": "9ec46cb4a80209af9fc0039d072eed0771f3eaf862f0581ddfc040a0ae7c002c"
     }
   ],
   "diagnostics": {

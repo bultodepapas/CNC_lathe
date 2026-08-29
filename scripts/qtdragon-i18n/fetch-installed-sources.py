@@ -25,6 +25,12 @@ REMOTE_FILES = (
     PurePosixPath("/usr/share/qtvcp/screens/qtdragon/qtdragon.qss"),
     PurePosixPath("/usr/share/qtvcp/screens/qtdragon/qtdragon_ABOUT"),
     PurePosixPath("/usr/share/qtvcp/screens/qtdragon/version.txt"),
+    PurePosixPath("/usr/lib/python3/dist-packages/qtvcp/widgets/action_button.py"),
+    PurePosixPath("/usr/lib/python3/dist-packages/qtvcp/widgets/file_manager.py"),
+    PurePosixPath("/usr/lib/python3/dist-packages/qtvcp/widgets/gcode_editor.py"),
+    PurePosixPath("/usr/lib/python3/dist-packages/qtvcp/widgets/jog_increments.py"),
+    PurePosixPath("/usr/lib/python3/dist-packages/qtvcp/widgets/status_label.py"),
+    PurePosixPath("/usr/lib/python3/dist-packages/qtvcp/widgets/tool_offsetview.py"),
 )
 
 READ_ONLY_DIAGNOSTICS = {
