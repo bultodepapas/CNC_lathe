@@ -20,6 +20,14 @@ HAL en ejecución. No se ordenó movimiento ni se modificó la máquina remota.
 
 ## Estado de subsistemas críticos
 
+### Sincronismo del eje Z tándem
+
+El operador reportó rotura de elementos plásticos sacrificiales cuando un motor
+Z se atasca y el otro continúa. La causa principal es que LinuxCNC recibe
+posición calculada de los stepgen, no posición física ni las alarmas de los dos
+HBS86H. El diagnóstico y la corrección propuesta están en
+`docs/incidente-desincronizacion-z.md`.
+
 ### Cadena de parada de emergencia
 
 La captura inicial sólo tenía un puente lógico. La configuración activa carga

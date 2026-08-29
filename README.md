@@ -14,6 +14,8 @@ X, Z y Z tándem.
   autocontenida para que las rutas relativas de LinuxCNC funcionen.
 - `docs/hardware.md`: inventario mecánico, eléctrico y de control recibido.
 - `docs/configuration-audit.md`: auditoría inicial y puntos pendientes.
+- `docs/incidente-desincronizacion-z.md`: diagnóstico y plan para evitar que un
+  motor Z continúe cuando el otro se atasca o entra en alarma.
 - `docs/remote-backup.md`: acceso y procedimiento de respaldo por Tailscale/SSH.
 - `scripts/backup-cnc.ps1`: copia remota de solo lectura hacia `backups/`.
 - `scripts/backup-cnc.py`: respaldo no interactivo usando las credenciales
