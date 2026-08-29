@@ -32,6 +32,47 @@ interbloqueo común entre los dos accionamientos Z. La obstrucción explica por 
 se detiene el primer lado, pero una obstrucción aislada no debería permitir que
 el segundo lado continúe.
 
+## Verificación doble sobre la máquina activa
+
+Revisión de solo lectura realizada el 2026-08-29. Los hashes SHA-256 de los HAL e
+INI activos en `cnc` coincidieron con los archivos del repositorio. Los procesos
+LinuxCNC, milltask y QtDragon usaban
+`/home/cnc/linuxcnc/configs/torno_v3/torno_v3.ini`.
+
+El INI carga únicamente:
+
+```text
+HALFILE = torno_v3.hal
+HALFILE = custom.hal
+POSTGUI_HALFILE = qtvcp_postgui.hal
+POSTGUI_HALFILE = custom_postgui.hal
+SHUTDOWN = shutdown.hal
+```
+
+El HAL vivo mostró:
+
+| Pin | Estado y conexión observados |
+|---|---|
+| `joint.1.amp-fault-in` | `FALSE`, sin señal conectada |
+| `joint.2.amp-fault-in` | `FALSE`, sin señal conectada |
+| `joint.1.amp-enable-out` | `TRUE` → señal `z-enable` → `stepgen.01.enable` |
+| `joint.2.amp-enable-out` | `TRUE` → señal `z2-enable` → `stepgen.02.enable` |
+| `joint.1.motor-pos-fb` | recibe `stepgen.01.position-fb` |
+| `joint.2.motor-pos-fb` | recibe `stepgen.02.position-fb` |
+| Mesa `input-09` y `input-10` | sin señal HAL conectada; ambas estaban bajas |
+
+No apareció ninguna señal o pin enlazado con nombre `ALM`, `PEND`, alarma o
+fallo de los drivers. La cadena E-stop existente sólo combina la habilitación de
+LinuxCNC con la entrada física Mesa 08; no incluye alarmas Z.
+
+Conclusión confirmada: actualmente LinuxCNC puede detener simultáneamente los
+stepgen por límite o E-stop, pero no tiene información de que uno de los HBS86H
+se haya detenido internamente. Tampoco hay en HAL una salida física `ENA` de los
+drivers: `stepgen.N.enable` únicamente habilita o inhibe la generación de
+pulsos. Por SSH no es posible comprobar si hay cables físicos no utilizados en
+los bornes `ALM`, `PEND` o `ENA`; se requieren fotografías o inspección del
+tablero.
+
 ### Evidencia en la configuración
 
 Los drivers HBS86H cierran internamente el lazo con el encoder de cada motor,
