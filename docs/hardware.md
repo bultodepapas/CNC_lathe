@@ -46,7 +46,12 @@ rotulados `Z1` y `Z2`, ambos encendidos con LED verde. En los dos drivers:
   incluidas `ENA+` y `ENA-`; se necesita una prueba de continuidad para saber a
   dónde llegan esos dos conductores.
 
-La tarjeta de movimiento visible es una Mesa 7I76EU.
+La tarjeta de movimiento visible es una Mesa 7I76EU/7I76E Ethernet. La foto
+frontal confirma el conector RJ45, las borneras diferenciales de `STEP/DIR`, el
+bloque de alimentación de campo y las dos borneras largas de E/S de campo.
+La perspectiva no deja leer con seguridad `TB5` y `TB6` ni permite decidir qué
+tornillos están libres; esa identificación debe hacerse con una foto frontal de
+detalle de la mitad inferior y con la serigrafía visible.
 
 | Item | Model / Specification | Quantity |
 |-----|-----------------------|---------|

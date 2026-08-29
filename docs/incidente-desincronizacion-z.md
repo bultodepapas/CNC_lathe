@@ -137,10 +137,14 @@ salida de enable física identificable. Antes de diseñar el corte común hay qu
 seguir esos conductores con la máquina desenergizada y comprobar continuidad;
 no se debe deducir su destino únicamente por color.
 
-La placa fotografiada es una Mesa 7I76EU. Según el manual oficial, `INPUT9` está
-en TB6 pin 10 y `INPUT10` en TB6 pin 11. Son candidatos lógicos porque el HAL
-activo los muestra sin enlazar, pero hay que verificar también que los tornillos
-correspondientes estén físicamente libres antes de conectarlos.
+La foto frontal confirma una Mesa 7I76EU/7I76E Ethernet y muestra conectado el
+bloque de alimentación de campo. Según el manual oficial, `INPUT9` está en TB6
+pin 10 y `INPUT10` en TB6 pin 11. Son candidatos lógicos porque el HAL activo
+los muestra sin enlazar. Esta foto no permite leer con certeza la marca `TB6`
+ni seguir los conductores que pasan por debajo de las borneras; por ello no se
+debe escoger un tornillo solamente contando posiciones en la imagen. Antes de
+conectar hay que leer la serigrafía en la placa, confirmar los pines con el
+manual y verificar que estén físicamente libres.
 
 ## Homing y límites: mejora separada, no causa del incidente
 
