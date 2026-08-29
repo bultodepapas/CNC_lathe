@@ -1,0 +1,8 @@
+--- a/linuxcnc/configs/torno_v3/torno_v3.ini
++++ b/linuxcnc/configs/torno_v3/torno_v3.ini
+@@ -66,4 +66,5 @@
+ [HAL]
+ HALUI = halui
+ HALFILE = torno_v3.hal
++HALFILE = z_drive_faults.hal
+ HALFILE = custom.hal

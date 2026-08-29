@@ -19,6 +19,10 @@ X, Z y Z tándem.
 - `docs/configuration-audit.md`: auditoría inicial y puntos pendientes.
 - `docs/incidente-desincronizacion-z.md`: diagnóstico y plan para evitar que un
   motor Z continúe cuando el otro se atasca o entra en alarma.
+- `docs/manual-cableado-alarmas-z.md`: hoja corta de conexión de `ALM` para Z1
+  y Z2 hacia las entradas de campo de la Mesa.
+- `drafts/alarmas-z/`: cambio HAL preparado pero inactivo hasta terminar el
+  cableado físico y las pruebas sin movimiento.
 - `docs/remote-backup.md`: acceso y procedimiento de respaldo por Tailscale/SSH.
 - `scripts/backup-cnc.ps1`: copia remota de solo lectura hacia `backups/`.
 - `scripts/backup-cnc.py`: respaldo no interactivo usando las credenciales

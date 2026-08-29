@@ -1,0 +1,26 @@
+# BORRADOR: alarmas fail-safe de los dos drivers Z
+#
+# Este archivo no esta activo mientras torno_v3.ini no lo incluya como HALFILE.
+# Cableado esperado:
+#   Z1 ALM- -> Mesa TB6-10 / INPUT9
+#   Z2 ALM- -> Mesa TB6-11 / INPUT10
+# En estado sano ambas entradas fisicas deben estar en TRUE. La salida -not se
+# activa por alarma, perdida de alimentacion o cable abierto.
+
+loadrt or2 names=z-drive-fault-or
+# Posicion 2: inmediatamente despues de la lectura Mesa y antes de motion.
+addf z-drive-fault-or servo-thread 2
+
+# Alarmas individuales, conservadas por separado para diagnostico.
+net z1-drive-fault \
+    hm2_7i76e.0.7i76.0.0.input-09-not \
+    => z-drive-fault-or.in0
+
+net z2-drive-fault \
+    hm2_7i76e.0.7i76.0.0.input-10-not \
+    => z-drive-fault-or.in1
+
+# Una alarma de cualquier lado declara fallo simultaneo en las dos juntas Z.
+net z-drive-fault \
+    z-drive-fault-or.out \
+    => joint.1.amp-fault-in joint.2.amp-fault-in
