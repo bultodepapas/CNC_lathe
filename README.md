@@ -17,6 +17,8 @@ X, Z y Z tándem.
 - `output/docs/componentes/`: copias Markdown, fuentes, hashes, auditoría e
   índice de correspondencia de los componentes.
 - `docs/configuration-audit.md`: auditoría inicial y puntos pendientes.
+- `docs/plan-actualizacion-linuxcnc-2.9.10.md`: runbook completo para actualizar
+  LinuxCNC 2.9.7 a 2.9.10, validar la máquina por gates y ejecutar rollback.
 - `docs/incidente-desincronizacion-z.md`: diagnóstico y plan para evitar que un
   motor Z continúe cuando el otro se atasca o entra en alarma.
 - `docs/manual-cableado-alarmas-z.md`: hoja corta de conexión de `ALM` para Z1
@@ -28,6 +30,10 @@ X, Z y Z tándem.
 - `scripts/backup-cnc.py`: respaldo no interactivo usando las credenciales
   locales excluidas de Git.
 - `scripts/verify-config.ps1`: comprobaciones estáticas que no requieren LinuxCNC.
+- `scripts/audit-cnc-readonly.py`: inventario SSH con allowlist estática; no
+  usa `sudo`, no escribe en el CNC y no modifica HAL/APT.
+- `scripts/verify-upgrade-packages.ps1`: valida tamaño y SHA-256 del conjunto
+  offline 2.9.10 y del rollback APT exacto 2.9.7.
 - `archive/imported/`: archivos recibidos cuya función o vigencia no está
   confirmada; nunca se despliegan automáticamente.
 - `backups/`: copias fechadas de la máquina, excluidas de Git.

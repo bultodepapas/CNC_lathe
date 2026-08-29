@@ -1,0 +1,74 @@
+{
+  "captured_at_utc": "2026-08-29T16:21:02.398793+00:00",
+  "remote_host": "cnc.taila1b901.ts.net",
+  "remote_access": "SFTP read-only plus fixed diagnostic commands",
+  "host_key_sha256": "ZNIRznpkv44p0vgJTFxhNv10PLnl1t80+SbSXH2JLN0=",
+  "files": [
+    {
+      "remote_path": "/usr/bin/qtvcp",
+      "local_path": "usr/bin/qtvcp",
+      "bytes": 22740,
+      "mtime_utc": "2025-10-22T22:43:13+00:00",
+      "sha256": "1ca0cd23ccc5c05918aa39d47e1ded1b2242b1130488c4ff7c85129b3b6f6159"
+    },
+    {
+      "remote_path": "/usr/lib/python3/dist-packages/qtvcp/qt_pstat.py",
+      "local_path": "usr/lib/python3/dist-packages/qtvcp/qt_pstat.py",
+      "bytes": 19471,
+      "mtime_utc": "2025-10-22T22:43:13+00:00",
+      "sha256": "fa504445b7ceca48e07de5b7cf24532a8c7809da96eafc100983d2d31f95ef19"
+    },
+    {
+      "remote_path": "/usr/share/qtvcp/screens/qtdragon/qtdragon.ui",
+      "local_path": "usr/share/qtvcp/screens/qtdragon/qtdragon.ui",
+      "bytes": 841936,
+      "mtime_utc": "2025-10-22T22:43:13+00:00",
+      "sha256": "d50bc9c3919302d7ec5fa7df9443ee8e852837b51f6adb555968a261b95d2039"
+    },
+    {
+      "remote_path": "/usr/share/qtvcp/screens/qtdragon/qtdragon_handler.py",
+      "local_path": "usr/share/qtvcp/screens/qtdragon/qtdragon_handler.py",
+      "bytes": 74457,
+      "mtime_utc": "2025-10-22T22:43:13+00:00",
+      "sha256": "b00f5b5a5c3acace9c2a2fb997d5e53d561df1533c5e06c118d3fc149d6d3d03"
+    },
+    {
+      "remote_path": "/usr/share/qtvcp/screens/qtdragon/qtdragon.qss",
+      "local_path": "usr/share/qtvcp/screens/qtdragon/qtdragon.qss",
+      "bytes": 10925,
+      "mtime_utc": "2025-10-22T22:43:13+00:00",
+      "sha256": "2425dbdc1f6b643782382c1e63bac6ce96db8cdbe926cd7bd10919065ad12712"
+    },
+    {
+      "remote_path": "/usr/share/qtvcp/screens/qtdragon/qtdragon_ABOUT",
+      "local_path": "usr/share/qtvcp/screens/qtdragon/qtdragon_ABOUT",
+      "bytes": 4150,
+      "mtime_utc": "2025-10-22T22:43:13+00:00",
+      "sha256": "743469a79d5c1818468413fdd7fe7c4c18fda25ab460d192b103f70ec15393ca"
+    },
+    {
+      "remote_path": "/usr/share/qtvcp/screens/qtdragon/version.txt",
+      "local_path": "usr/share/qtvcp/screens/qtdragon/version.txt",
+      "bytes": 505,
+      "mtime_utc": "2025-10-22T22:43:13+00:00",
+      "sha256": "3cd326f29a124d9b6fc5235033cc2226584c5fe99148ff9616c139a332bb4e6d"
+    }
+  ],
+  "diagnostics": {
+    "packages": {
+      "exit": 0,
+      "stdout": "linuxcnc-doc-es\t1:2.9.7\nlinuxcnc-uspace\t1:2.9.7\nlocales\t2.36-9+deb12u13\nqttranslations5-l10n\t5.15.8-2\n",
+      "stderr": ""
+    },
+    "locale": {
+      "exit": 0,
+      "stdout": "LANG=es_CO.UTF-8\nLANGUAGE=es_CO:es\nLC_CTYPE=\"es_CO.UTF-8\"\nLC_NUMERIC=\"es_CO.UTF-8\"\nLC_TIME=\"es_CO.UTF-8\"\nLC_COLLATE=\"es_CO.UTF-8\"\nLC_MONETARY=\"es_CO.UTF-8\"\nLC_MESSAGES=\"es_CO.UTF-8\"\nLC_PAPER=\"es_CO.UTF-8\"\nLC_NAME=\"es_CO.UTF-8\"\nLC_ADDRESS=\"es_CO.UTF-8\"\nLC_TELEPHONE=\"es_CO.UTF-8\"\nLC_MEASUREMENT=\"es_CO.UTF-8\"\nLC_IDENTIFICATION=\"es_CO.UTF-8\"\nLC_ALL=\nes_CO\n",
+      "stderr": ""
+    },
+    "screen_languages": {
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    }
+  }
+}

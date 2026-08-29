@@ -24,6 +24,7 @@ Thumbs.db
 *~
 __pycache__/
 *.py[cod]
+.work/qtdragon-i18n-*/
 
 # Salidas de LinuxCNC que no forman parte de una captura deliberada
 *.log
