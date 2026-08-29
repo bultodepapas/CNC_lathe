@@ -1,0 +1,32 @@
+# Credenciales y claves
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.ppk
+id_rsa*
+id_ed25519*
+
+# Respaldos remotos (pueden contener datos de operación)
+backups/*
+!backups/.gitkeep
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# Archivos temporales del sistema/editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*~
+__pycache__/
+*.py[cod]
+
+# Salidas de LinuxCNC que no forman parte de una captura deliberada
+*.log
+*.bak
+*.backup
+core

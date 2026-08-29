@@ -1,0 +1,7 @@
+* text=auto
+*.hal text eol=lf
+*.ini text eol=lf
+*.tbl text eol=lf
+*.var text eol=lf
+*.md text eol=lf
+*.ps1 text eol=lf

@@ -1,0 +1,8 @@
+# ============================================================
+# QTDRAGON POSTGUI HAL - TORNO_V3
+# Manual toolchange disabled for automatic carousel turret.
+# Archivo sin tildes ni ene
+# ============================================================
+
+# Do not connect hal_manualtoolchange here.
+# Tool change confirmation is handled by carousel.0.ready in custom.hal.

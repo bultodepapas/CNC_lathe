@@ -1,0 +1,5 @@
+#!/bin/bash
+/home/cnc/linuxcnc/nc_files/M100
+halcmd sets turret-index-pos 12.5
+sleep 3
+exit 0

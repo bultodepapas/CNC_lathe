@@ -1,0 +1,47 @@
+# ============================================================
+# CUSTOM HAL - TORNO_V3
+# TORRETA 4 HERRAMIENTAS CON CAROUSEL
+# Archivo sin tildes ni ene
+# ============================================================
+
+loadrt carousel pockets=4 encoding=counts num_sense=1 dir=2
+addf carousel.0 servo-thread
+
+# Sensor Hall de T1
+net turret-home-sensor hm2_7i76e.0.7i76.0.0.input-01-not => carousel.0.sense-0
+
+# Stepgen de torreta
+setp hm2_7i76e.0.stepgen.00.dirsetup        10000
+setp hm2_7i76e.0.stepgen.00.dirhold         10000
+setp hm2_7i76e.0.stepgen.00.steplen         5000
+setp hm2_7i76e.0.stepgen.00.stepspace       5000
+setp hm2_7i76e.0.stepgen.00.step_type       0
+setp hm2_7i76e.0.stepgen.00.control-type    0
+
+# Carousel trabaja en cuentas directas
+setp hm2_7i76e.0.stepgen.00.position-scale  1.0
+
+setp hm2_7i76e.0.stepgen.00.maxvel          8889
+setp hm2_7i76e.0.stepgen.00.maxaccel        26667
+
+net machine-is-enabled => hm2_7i76e.0.stepgen.00.enable
+
+# Carousel <-> stepgen
+net turret-counts hm2_7i76e.0.stepgen.00.counts => carousel.0.counts
+net turret-target carousel.0.counts-target => hm2_7i76e.0.stepgen.00.position-cmd
+
+# Parametros mecanicos
+setp carousel.0.scale        40000
+setp carousel.0.home-offset  -5556
+setp carousel.0.width        500
+
+setp carousel.0.fwd-dc       8889
+setp carousel.0.rev-dc       -8889
+setp carousel.0.hold-dc      0
+setp carousel.0.decel-time   0
+setp carousel.0.rev-pulse    0
+
+# Usar senales existentes creadas en torno_v3.hal
+net tool-number => carousel.0.pocket-number
+net tool-change-request => carousel.0.enable
+net tool-change-confirmed <= carousel.0.ready

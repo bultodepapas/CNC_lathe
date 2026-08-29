@@ -1,0 +1,50 @@
+#!/bin/bash
+
+# M100 - Home torreta
+# Busca el sensor Hall T1 y luego avanza 12.5 grados desde el punto detectado.
+# No usa posiciones absolutas fijas.
+
+# Entrar a modo home velocidad
+halcmd sets turret-search-speed 0
+halcmd sets turret-home-mode TRUE
+sleep 0.1
+
+# Si ya esta en el sensor, salir hacia atras para poder buscarlo de nuevo
+if halcmd getp hm2_7i76e.0.7i76.0.0.input-01-not | grep -q TRUE; then
+    halcmd sets turret-search-speed -2
+    sleep 1.2
+    halcmd sets turret-search-speed 0
+    sleep 0.2
+fi
+
+# Buscar sensor en direccion positiva
+halcmd sets turret-search-speed 2
+
+# Esperar hasta que el sensor se active
+while true; do
+    SENSOR=$(halcmd getp hm2_7i76e.0.7i76.0.0.input-01-not)
+    if [ "$SENSOR" = "TRUE" ]; then
+        break
+    fi
+    sleep 0.05
+done
+
+# Parar movimiento de home
+halcmd sets turret-search-speed 0
+sleep 0.3
+
+# Leer posicion interna actual justo donde se detecto el sensor
+FB=$(halcmd getp hm2_7i76e.0.stepgen.00.position-fb)
+
+# Calcular centro real de T1: posicion detectada + 12.5 grados
+TARGET=$(awk -v fb="$FB" 'BEGIN { printf "%.4f", fb + 12.5 }')
+
+# Cambiar a modo posicion
+halcmd sets turret-home-mode FALSE
+sleep 0.1
+
+# Mandar a centro exacto de T1
+halcmd sets turret-index-pos "$TARGET"
+sleep 3
+
+exit 0
