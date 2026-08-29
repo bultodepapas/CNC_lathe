@@ -102,6 +102,46 @@ externas del accionamiento. El HBS86H documenta salidas `ALM+`/`ALM-` y una alar
 por error de posición, además de otras protecciones. La polaridad y variante
 exacta deben confirmarse en los drivers instalados.
 
+El propietario confirmó la compra del kit HLTNC de cuatro ejes, variante de
+12 Nm con HBS86H, fuentes y ejes de motor de 14 mm:
+`https://es.aliexpress.com/item/4000642135176.html`. Los manuales disponibles
+para esta familia HBS86H muestran normalmente un bloque de salidas
+`PEND+`, `PEND-`, `ALM+` y `ALM-`, y entradas `ENA+`/`ENA-`. La miniatura del
+pedido no tiene resolución suficiente para certificar la numeración de los
+bornes de este lote; antes de cablear se debe leer la serigrafía de una unidad
+real y medir su estado normal y de alarma.
+
+Posteriormente se recibió una imagen técnica legible del HLTNC HBS86H. Confirma
+la presencia de `ENA+`/`ENA-`, `PEND+`/`PEND-` y `ALM+`/`ALM-`. Por tanto, si Z1
+y Z2 corresponden a esa unidad, la corrección puede realizarse con los drivers
+existentes. Otra imagen recibida corresponde a un HBS57H y no debe mezclarse con
+la numeración del HBS86H.
+
+Como borrador de asignación, Mesa `input-09` puede reservarse para alarma Z1 y
+`input-10` para alarma Z2, porque ambas están sin señal HAL. La conexión eléctrica
+exacta queda pendiente de medir la polaridad/estado normal de `ALM` y comprobar
+que esas borneras están físicamente libres. Con lógica fail-safe, el estado sano
+debe mantener la entrada Mesa activa y una alarma, cable roto o pérdida de
+alimentación debe hacerla caer.
+
+### Inspección fotográfica del tablero
+
+Las fotografías reales confirman dos HLTNC HBS86H rotulados `Z1` y `Z2`. Los
+cuatro terminales de estado de ambos drivers están vacíos; no hay conexión física
+desde `ALM` o `PEND` hacia la Mesa. Los LED visibles estaban verdes, por lo que
+los drivers no estaban en alarma durante la fotografía.
+
+El conector de control de seis posiciones parece completamente ocupado. Esto
+indica que `ENA+`/`ENA-` podrían estar cableados, aunque el HAL no contiene una
+salida de enable física identificable. Antes de diseñar el corte común hay que
+seguir esos conductores con la máquina desenergizada y comprobar continuidad;
+no se debe deducir su destino únicamente por color.
+
+La placa fotografiada es una Mesa 7I76EU. Según el manual oficial, `INPUT9` está
+en TB6 pin 10 y `INPUT10` en TB6 pin 11. Son candidatos lógicos porque el HAL
+activo los muestra sin enlazar, pero hay que verificar también que los tornillos
+correspondientes estén físicamente libres antes de conectarlos.
+
 ## Homing y límites: mejora separada, no causa del incidente
 
 La configuración actual conecta una sola entrada de home Z a ambas juntas y

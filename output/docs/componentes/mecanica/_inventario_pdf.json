@@ -1,0 +1,5208 @@
+[
+  {
+    "archivo_pdf": "GREENLEAF_catalogo_rodamientos_soporte_DSG.pdf",
+    "archivo_md": "GREENLEAF_catalogo_rodamientos_soporte_DSG.md",
+    "bytes": 3903550,
+    "sha256": "14cbc3773a2b7a128d227a45dd30bdff462e553eb06809710ece16ac0f65fa8b",
+    "paginas": 15,
+    "cifrado": false,
+    "clasificacion": "mixto_o_paginas_graficas",
+    "paginas_vacias": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "errores_extraccion": [],
+    "caracteres_totales": 0,
+    "detalle_paginas": [
+      {
+        "pagina": 1,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": true
+      },
+      {
+        "pagina": 2,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": true
+      },
+      {
+        "pagina": 3,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": true
+      },
+      {
+        "pagina": 4,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": true
+      },
+      {
+        "pagina": 5,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": true
+      },
+      {
+        "pagina": 6,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": true
+      },
+      {
+        "pagina": 7,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": true
+      },
+      {
+        "pagina": 8,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": true
+      },
+      {
+        "pagina": 9,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": true
+      },
+      {
+        "pagina": 10,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": true
+      },
+      {
+        "pagina": 11,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": true
+      },
+      {
+        "pagina": 12,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": true
+      },
+      {
+        "pagina": 13,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": true
+      },
+      {
+        "pagina": 14,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": true
+      },
+      {
+        "pagina": 15,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": true
+      }
+    ],
+    "parser": "PyMuPDF",
+    "configuracion": {
+      "get_text": "text",
+      "sort": true
+    }
+  },
+  {
+    "archivo_pdf": "HIWIN_catalogo_guias_lineales_HG_QH.pdf",
+    "archivo_md": "HIWIN_catalogo_guias_lineales_HG_QH.md",
+    "bytes": 17635809,
+    "sha256": "9ded66067f740e90837e3a355b886782ec0ca2a12cf5e37907de49b800733103",
+    "paginas": 245,
+    "cifrado": true,
+    "clasificacion": "digital",
+    "paginas_vacias": [],
+    "errores_extraccion": [],
+    "caracteres_totales": 891881,
+    "detalle_paginas": [
+      {
+        "pagina": 1,
+        "caracteres_texto_nativo": 114,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 2,
+        "caracteres_texto_nativo": 5134,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 3,
+        "caracteres_texto_nativo": 4686,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 4,
+        "caracteres_texto_nativo": 3215,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 5,
+        "caracteres_texto_nativo": 3396,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 6,
+        "caracteres_texto_nativo": 3019,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 7,
+        "caracteres_texto_nativo": 4674,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 8,
+        "caracteres_texto_nativo": 2780,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 9,
+        "caracteres_texto_nativo": 10866,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 10,
+        "caracteres_texto_nativo": 7605,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 11,
+        "caracteres_texto_nativo": 3261,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 12,
+        "caracteres_texto_nativo": 5257,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 13,
+        "caracteres_texto_nativo": 2213,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 14,
+        "caracteres_texto_nativo": 832,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 15,
+        "caracteres_texto_nativo": 1493,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 16,
+        "caracteres_texto_nativo": 1451,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 17,
+        "caracteres_texto_nativo": 2175,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 18,
+        "caracteres_texto_nativo": 3245,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 19,
+        "caracteres_texto_nativo": 3428,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 20,
+        "caracteres_texto_nativo": 3331,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 21,
+        "caracteres_texto_nativo": 3463,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 22,
+        "caracteres_texto_nativo": 6005,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 23,
+        "caracteres_texto_nativo": 4070,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 24,
+        "caracteres_texto_nativo": 3593,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 25,
+        "caracteres_texto_nativo": 3109,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 26,
+        "caracteres_texto_nativo": 5319,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 27,
+        "caracteres_texto_nativo": 2652,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 28,
+        "caracteres_texto_nativo": 3666,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 29,
+        "caracteres_texto_nativo": 5637,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 30,
+        "caracteres_texto_nativo": 3605,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 31,
+        "caracteres_texto_nativo": 5752,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 32,
+        "caracteres_texto_nativo": 3491,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 33,
+        "caracteres_texto_nativo": 5356,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 34,
+        "caracteres_texto_nativo": 2059,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 35,
+        "caracteres_texto_nativo": 2215,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 36,
+        "caracteres_texto_nativo": 3139,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 37,
+        "caracteres_texto_nativo": 3621,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 38,
+        "caracteres_texto_nativo": 3410,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 39,
+        "caracteres_texto_nativo": 3427,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 40,
+        "caracteres_texto_nativo": 2759,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 41,
+        "caracteres_texto_nativo": 6281,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 42,
+        "caracteres_texto_nativo": 5159,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 43,
+        "caracteres_texto_nativo": 6141,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 44,
+        "caracteres_texto_nativo": 6338,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 45,
+        "caracteres_texto_nativo": 6165,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 46,
+        "caracteres_texto_nativo": 1500,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 47,
+        "caracteres_texto_nativo": 2166,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 48,
+        "caracteres_texto_nativo": 4849,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 49,
+        "caracteres_texto_nativo": 2193,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 50,
+        "caracteres_texto_nativo": 3734,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 51,
+        "caracteres_texto_nativo": 3845,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 52,
+        "caracteres_texto_nativo": 3390,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 53,
+        "caracteres_texto_nativo": 2803,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 54,
+        "caracteres_texto_nativo": 4073,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 55,
+        "caracteres_texto_nativo": 2145,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 56,
+        "caracteres_texto_nativo": 3510,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 57,
+        "caracteres_texto_nativo": 3133,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 58,
+        "caracteres_texto_nativo": 2896,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 59,
+        "caracteres_texto_nativo": 3074,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 60,
+        "caracteres_texto_nativo": 5215,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 61,
+        "caracteres_texto_nativo": 5140,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 62,
+        "caracteres_texto_nativo": 5240,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 63,
+        "caracteres_texto_nativo": 2182,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 64,
+        "caracteres_texto_nativo": 2050,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 65,
+        "caracteres_texto_nativo": 4649,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 66,
+        "caracteres_texto_nativo": 2886,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 67,
+        "caracteres_texto_nativo": 5370,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 68,
+        "caracteres_texto_nativo": 4253,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 69,
+        "caracteres_texto_nativo": 3280,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 70,
+        "caracteres_texto_nativo": 3599,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 71,
+        "caracteres_texto_nativo": 1744,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 72,
+        "caracteres_texto_nativo": 2345,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 73,
+        "caracteres_texto_nativo": 3145,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 74,
+        "caracteres_texto_nativo": 3633,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 75,
+        "caracteres_texto_nativo": 3007,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 76,
+        "caracteres_texto_nativo": 4440,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 77,
+        "caracteres_texto_nativo": 3376,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 78,
+        "caracteres_texto_nativo": 1241,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 79,
+        "caracteres_texto_nativo": 1425,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 80,
+        "caracteres_texto_nativo": 1409,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 81,
+        "caracteres_texto_nativo": 1451,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 82,
+        "caracteres_texto_nativo": 2237,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 83,
+        "caracteres_texto_nativo": 5512,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 84,
+        "caracteres_texto_nativo": 1739,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 85,
+        "caracteres_texto_nativo": 4365,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 86,
+        "caracteres_texto_nativo": 4038,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 87,
+        "caracteres_texto_nativo": 3702,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 88,
+        "caracteres_texto_nativo": 4647,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 89,
+        "caracteres_texto_nativo": 4747,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 90,
+        "caracteres_texto_nativo": 2109,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 91,
+        "caracteres_texto_nativo": 1771,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 92,
+        "caracteres_texto_nativo": 6737,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 93,
+        "caracteres_texto_nativo": 8102,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 94,
+        "caracteres_texto_nativo": 5958,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 95,
+        "caracteres_texto_nativo": 6154,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 96,
+        "caracteres_texto_nativo": 3074,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 97,
+        "caracteres_texto_nativo": 2352,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 98,
+        "caracteres_texto_nativo": 1852,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 99,
+        "caracteres_texto_nativo": 4661,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 100,
+        "caracteres_texto_nativo": 2469,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 101,
+        "caracteres_texto_nativo": 5277,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 102,
+        "caracteres_texto_nativo": 3208,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 103,
+        "caracteres_texto_nativo": 5630,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 104,
+        "caracteres_texto_nativo": 2588,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 105,
+        "caracteres_texto_nativo": 3164,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 106,
+        "caracteres_texto_nativo": 3134,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 107,
+        "caracteres_texto_nativo": 3179,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 108,
+        "caracteres_texto_nativo": 4263,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 109,
+        "caracteres_texto_nativo": 4050,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 110,
+        "caracteres_texto_nativo": 4264,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 111,
+        "caracteres_texto_nativo": 4119,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 112,
+        "caracteres_texto_nativo": 1917,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 113,
+        "caracteres_texto_nativo": 4640,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 114,
+        "caracteres_texto_nativo": 2259,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 115,
+        "caracteres_texto_nativo": 3982,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 116,
+        "caracteres_texto_nativo": 3669,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 117,
+        "caracteres_texto_nativo": 4223,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 118,
+        "caracteres_texto_nativo": 2310,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 119,
+        "caracteres_texto_nativo": 3792,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 120,
+        "caracteres_texto_nativo": 3609,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 121,
+        "caracteres_texto_nativo": 5004,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 122,
+        "caracteres_texto_nativo": 5007,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 123,
+        "caracteres_texto_nativo": 4892,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 124,
+        "caracteres_texto_nativo": 1645,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 125,
+        "caracteres_texto_nativo": 4608,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 126,
+        "caracteres_texto_nativo": 1994,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 127,
+        "caracteres_texto_nativo": 3912,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 128,
+        "caracteres_texto_nativo": 3410,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 129,
+        "caracteres_texto_nativo": 2739,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 130,
+        "caracteres_texto_nativo": 2765,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 131,
+        "caracteres_texto_nativo": 3952,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 132,
+        "caracteres_texto_nativo": 3685,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 133,
+        "caracteres_texto_nativo": 4091,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 134,
+        "caracteres_texto_nativo": 3353,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 135,
+        "caracteres_texto_nativo": 2788,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 136,
+        "caracteres_texto_nativo": 1221,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 137,
+        "caracteres_texto_nativo": 4832,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 138,
+        "caracteres_texto_nativo": 2491,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 139,
+        "caracteres_texto_nativo": 5405,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 140,
+        "caracteres_texto_nativo": 3217,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 141,
+        "caracteres_texto_nativo": 5652,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 142,
+        "caracteres_texto_nativo": 3117,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 143,
+        "caracteres_texto_nativo": 4272,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 144,
+        "caracteres_texto_nativo": 3034,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 145,
+        "caracteres_texto_nativo": 3197,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 146,
+        "caracteres_texto_nativo": 2578,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 147,
+        "caracteres_texto_nativo": 3261,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 148,
+        "caracteres_texto_nativo": 2723,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 149,
+        "caracteres_texto_nativo": 5975,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 150,
+        "caracteres_texto_nativo": 5382,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 151,
+        "caracteres_texto_nativo": 5709,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 152,
+        "caracteres_texto_nativo": 5929,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 153,
+        "caracteres_texto_nativo": 4240,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 154,
+        "caracteres_texto_nativo": 4369,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 155,
+        "caracteres_texto_nativo": 2350,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 156,
+        "caracteres_texto_nativo": 5276,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 157,
+        "caracteres_texto_nativo": 2867,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 158,
+        "caracteres_texto_nativo": 3564,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 159,
+        "caracteres_texto_nativo": 4875,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 160,
+        "caracteres_texto_nativo": 3166,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 161,
+        "caracteres_texto_nativo": 3162,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 162,
+        "caracteres_texto_nativo": 3702,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 163,
+        "caracteres_texto_nativo": 5669,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 164,
+        "caracteres_texto_nativo": 2727,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 165,
+        "caracteres_texto_nativo": 4344,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 166,
+        "caracteres_texto_nativo": 3213,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 167,
+        "caracteres_texto_nativo": 1724,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 168,
+        "caracteres_texto_nativo": 3289,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 169,
+        "caracteres_texto_nativo": 2866,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 170,
+        "caracteres_texto_nativo": 6161,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 171,
+        "caracteres_texto_nativo": 5548,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 172,
+        "caracteres_texto_nativo": 6389,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 173,
+        "caracteres_texto_nativo": 3290,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 174,
+        "caracteres_texto_nativo": 3540,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 175,
+        "caracteres_texto_nativo": 1430,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 176,
+        "caracteres_texto_nativo": 2772,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 177,
+        "caracteres_texto_nativo": 5038,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 178,
+        "caracteres_texto_nativo": 2801,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 179,
+        "caracteres_texto_nativo": 5063,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 180,
+        "caracteres_texto_nativo": 4020,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 181,
+        "caracteres_texto_nativo": 3742,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 182,
+        "caracteres_texto_nativo": 2286,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 183,
+        "caracteres_texto_nativo": 3938,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 184,
+        "caracteres_texto_nativo": 2446,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 185,
+        "caracteres_texto_nativo": 1746,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 186,
+        "caracteres_texto_nativo": 3297,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 187,
+        "caracteres_texto_nativo": 6237,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 188,
+        "caracteres_texto_nativo": 5699,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 189,
+        "caracteres_texto_nativo": 6514,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 190,
+        "caracteres_texto_nativo": 3376,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 191,
+        "caracteres_texto_nativo": 5096,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 192,
+        "caracteres_texto_nativo": 2160,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 193,
+        "caracteres_texto_nativo": 5324,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 194,
+        "caracteres_texto_nativo": 2405,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 195,
+        "caracteres_texto_nativo": 5135,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 196,
+        "caracteres_texto_nativo": 2629,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 197,
+        "caracteres_texto_nativo": 2825,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 198,
+        "caracteres_texto_nativo": 2460,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 199,
+        "caracteres_texto_nativo": 3074,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 200,
+        "caracteres_texto_nativo": 2688,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 201,
+        "caracteres_texto_nativo": 1714,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 202,
+        "caracteres_texto_nativo": 2679,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 203,
+        "caracteres_texto_nativo": 4345,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 204,
+        "caracteres_texto_nativo": 4522,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 205,
+        "caracteres_texto_nativo": 4270,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 206,
+        "caracteres_texto_nativo": 1922,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 207,
+        "caracteres_texto_nativo": 4158,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 208,
+        "caracteres_texto_nativo": 2420,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 209,
+        "caracteres_texto_nativo": 5143,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 210,
+        "caracteres_texto_nativo": 4887,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 211,
+        "caracteres_texto_nativo": 2991,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 212,
+        "caracteres_texto_nativo": 2990,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 213,
+        "caracteres_texto_nativo": 2502,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 214,
+        "caracteres_texto_nativo": 5794,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 215,
+        "caracteres_texto_nativo": 3699,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 216,
+        "caracteres_texto_nativo": 2501,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 217,
+        "caracteres_texto_nativo": 5079,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 218,
+        "caracteres_texto_nativo": 4734,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 219,
+        "caracteres_texto_nativo": 4071,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 220,
+        "caracteres_texto_nativo": 4014,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 221,
+        "caracteres_texto_nativo": 5257,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 222,
+        "caracteres_texto_nativo": 2013,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 223,
+        "caracteres_texto_nativo": 1666,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 224,
+        "caracteres_texto_nativo": 3086,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 225,
+        "caracteres_texto_nativo": 3351,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 226,
+        "caracteres_texto_nativo": 4805,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 227,
+        "caracteres_texto_nativo": 3165,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 228,
+        "caracteres_texto_nativo": 3730,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 229,
+        "caracteres_texto_nativo": 3938,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 230,
+        "caracteres_texto_nativo": 4490,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 231,
+        "caracteres_texto_nativo": 4807,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 232,
+        "caracteres_texto_nativo": 4575,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 233,
+        "caracteres_texto_nativo": 4055,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 234,
+        "caracteres_texto_nativo": 1531,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 235,
+        "caracteres_texto_nativo": 2642,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 236,
+        "caracteres_texto_nativo": 1915,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 237,
+        "caracteres_texto_nativo": 3018,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 238,
+        "caracteres_texto_nativo": 1286,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 239,
+        "caracteres_texto_nativo": 2209,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 240,
+        "caracteres_texto_nativo": 3619,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 241,
+        "caracteres_texto_nativo": 2923,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 242,
+        "caracteres_texto_nativo": 1328,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 243,
+        "caracteres_texto_nativo": 4,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 244,
+        "caracteres_texto_nativo": 962,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 245,
+        "caracteres_texto_nativo": 2198,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      }
+    ],
+    "parser": "PyMuPDF",
+    "configuracion": {
+      "get_text": "text",
+      "sort": true
+    }
+  },
+  {
+    "archivo_pdf": "MOTOVARIO_catalogo_tecnico_VSF_NMRV_IEC.pdf",
+    "archivo_md": "MOTOVARIO_catalogo_tecnico_VSF_NMRV_IEC.md",
+    "bytes": 13861700,
+    "sha256": "1871eba830bee1b4c0b114e00a7a1a1e2a570a092bdf2b411cd133955b14c154",
+    "paginas": 328,
+    "cifrado": false,
+    "clasificacion": "mixto_o_paginas_graficas",
+    "paginas_vacias": [
+      2,
+      327
+    ],
+    "errores_extraccion": [],
+    "caracteres_totales": 1341786,
+    "detalle_paginas": [
+      {
+        "pagina": 1,
+        "caracteres_texto_nativo": 74,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 2,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 3,
+        "caracteres_texto_nativo": 2884,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 4,
+        "caracteres_texto_nativo": 3065,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 5,
+        "caracteres_texto_nativo": 2397,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 6,
+        "caracteres_texto_nativo": 1692,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 7,
+        "caracteres_texto_nativo": 2327,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 8,
+        "caracteres_texto_nativo": 4599,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 9,
+        "caracteres_texto_nativo": 3766,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 10,
+        "caracteres_texto_nativo": 1510,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 11,
+        "caracteres_texto_nativo": 2029,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 12,
+        "caracteres_texto_nativo": 1203,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 13,
+        "caracteres_texto_nativo": 252,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 14,
+        "caracteres_texto_nativo": 125,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 15,
+        "caracteres_texto_nativo": 210,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 16,
+        "caracteres_texto_nativo": 125,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 17,
+        "caracteres_texto_nativo": 210,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 18,
+        "caracteres_texto_nativo": 143,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 19,
+        "caracteres_texto_nativo": 211,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 20,
+        "caracteres_texto_nativo": 125,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 21,
+        "caracteres_texto_nativo": 227,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 22,
+        "caracteres_texto_nativo": 125,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 23,
+        "caracteres_texto_nativo": 210,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 24,
+        "caracteres_texto_nativo": 1206,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 25,
+        "caracteres_texto_nativo": 330,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 26,
+        "caracteres_texto_nativo": 137,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 27,
+        "caracteres_texto_nativo": 594,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 28,
+        "caracteres_texto_nativo": 1603,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 29,
+        "caracteres_texto_nativo": 8473,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 30,
+        "caracteres_texto_nativo": 914,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 31,
+        "caracteres_texto_nativo": 300,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 32,
+        "caracteres_texto_nativo": 2773,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 33,
+        "caracteres_texto_nativo": 8403,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 34,
+        "caracteres_texto_nativo": 6612,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 35,
+        "caracteres_texto_nativo": 3994,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 36,
+        "caracteres_texto_nativo": 8093,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 37,
+        "caracteres_texto_nativo": 7257,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 38,
+        "caracteres_texto_nativo": 3696,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 39,
+        "caracteres_texto_nativo": 6849,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 40,
+        "caracteres_texto_nativo": 6323,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 41,
+        "caracteres_texto_nativo": 5051,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 42,
+        "caracteres_texto_nativo": 1751,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 43,
+        "caracteres_texto_nativo": 4488,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 44,
+        "caracteres_texto_nativo": 1622,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 45,
+        "caracteres_texto_nativo": 3488,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 46,
+        "caracteres_texto_nativo": 1649,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 47,
+        "caracteres_texto_nativo": 2715,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 48,
+        "caracteres_texto_nativo": 2354,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 49,
+        "caracteres_texto_nativo": 3116,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 50,
+        "caracteres_texto_nativo": 1158,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 51,
+        "caracteres_texto_nativo": 206,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 52,
+        "caracteres_texto_nativo": 5652,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 53,
+        "caracteres_texto_nativo": 219,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 54,
+        "caracteres_texto_nativo": 122,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 55,
+        "caracteres_texto_nativo": 6593,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 56,
+        "caracteres_texto_nativo": 3884,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 57,
+        "caracteres_texto_nativo": 206,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 58,
+        "caracteres_texto_nativo": 122,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 59,
+        "caracteres_texto_nativo": 5962,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 60,
+        "caracteres_texto_nativo": 1192,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 61,
+        "caracteres_texto_nativo": 3792,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 62,
+        "caracteres_texto_nativo": 681,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 63,
+        "caracteres_texto_nativo": 2573,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 64,
+        "caracteres_texto_nativo": 1906,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 65,
+        "caracteres_texto_nativo": 2331,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 66,
+        "caracteres_texto_nativo": 3165,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 67,
+        "caracteres_texto_nativo": 2700,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 68,
+        "caracteres_texto_nativo": 1988,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 69,
+        "caracteres_texto_nativo": 3866,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 70,
+        "caracteres_texto_nativo": 3804,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 71,
+        "caracteres_texto_nativo": 3363,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 72,
+        "caracteres_texto_nativo": 1889,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 73,
+        "caracteres_texto_nativo": 4098,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 74,
+        "caracteres_texto_nativo": 1805,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 75,
+        "caracteres_texto_nativo": 1904,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 76,
+        "caracteres_texto_nativo": 961,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 77,
+        "caracteres_texto_nativo": 672,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 78,
+        "caracteres_texto_nativo": 3162,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 79,
+        "caracteres_texto_nativo": 1522,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 80,
+        "caracteres_texto_nativo": 3734,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 81,
+        "caracteres_texto_nativo": 300,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 82,
+        "caracteres_texto_nativo": 5174,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 83,
+        "caracteres_texto_nativo": 5243,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 84,
+        "caracteres_texto_nativo": 5154,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 85,
+        "caracteres_texto_nativo": 5311,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 86,
+        "caracteres_texto_nativo": 5100,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 87,
+        "caracteres_texto_nativo": 5292,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 88,
+        "caracteres_texto_nativo": 5145,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 89,
+        "caracteres_texto_nativo": 5305,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 90,
+        "caracteres_texto_nativo": 5223,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 91,
+        "caracteres_texto_nativo": 5312,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 92,
+        "caracteres_texto_nativo": 5191,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 93,
+        "caracteres_texto_nativo": 5337,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 94,
+        "caracteres_texto_nativo": 5111,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 95,
+        "caracteres_texto_nativo": 5260,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 96,
+        "caracteres_texto_nativo": 5215,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 97,
+        "caracteres_texto_nativo": 5235,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 98,
+        "caracteres_texto_nativo": 5207,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 99,
+        "caracteres_texto_nativo": 5309,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 100,
+        "caracteres_texto_nativo": 5306,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 101,
+        "caracteres_texto_nativo": 5317,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 102,
+        "caracteres_texto_nativo": 5232,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 103,
+        "caracteres_texto_nativo": 5257,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 104,
+        "caracteres_texto_nativo": 5149,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 105,
+        "caracteres_texto_nativo": 5254,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 106,
+        "caracteres_texto_nativo": 5231,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 107,
+        "caracteres_texto_nativo": 5271,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 108,
+        "caracteres_texto_nativo": 4742,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 109,
+        "caracteres_texto_nativo": 5310,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 110,
+        "caracteres_texto_nativo": 5257,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 111,
+        "caracteres_texto_nativo": 5294,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 112,
+        "caracteres_texto_nativo": 5331,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 113,
+        "caracteres_texto_nativo": 5392,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 114,
+        "caracteres_texto_nativo": 5218,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 115,
+        "caracteres_texto_nativo": 5297,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 116,
+        "caracteres_texto_nativo": 5262,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 117,
+        "caracteres_texto_nativo": 5324,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 118,
+        "caracteres_texto_nativo": 5263,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 119,
+        "caracteres_texto_nativo": 5284,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 120,
+        "caracteres_texto_nativo": 5277,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 121,
+        "caracteres_texto_nativo": 5400,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 122,
+        "caracteres_texto_nativo": 5253,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 123,
+        "caracteres_texto_nativo": 5295,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 124,
+        "caracteres_texto_nativo": 5234,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 125,
+        "caracteres_texto_nativo": 5385,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 126,
+        "caracteres_texto_nativo": 5180,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 127,
+        "caracteres_texto_nativo": 5246,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 128,
+        "caracteres_texto_nativo": 5263,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 129,
+        "caracteres_texto_nativo": 5293,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 130,
+        "caracteres_texto_nativo": 5188,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 131,
+        "caracteres_texto_nativo": 5291,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 132,
+        "caracteres_texto_nativo": 5198,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 133,
+        "caracteres_texto_nativo": 5357,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 134,
+        "caracteres_texto_nativo": 5253,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 135,
+        "caracteres_texto_nativo": 5383,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 136,
+        "caracteres_texto_nativo": 5189,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 137,
+        "caracteres_texto_nativo": 5286,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 138,
+        "caracteres_texto_nativo": 5182,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 139,
+        "caracteres_texto_nativo": 5305,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 140,
+        "caracteres_texto_nativo": 5236,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 141,
+        "caracteres_texto_nativo": 5379,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 142,
+        "caracteres_texto_nativo": 5387,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 143,
+        "caracteres_texto_nativo": 5295,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 144,
+        "caracteres_texto_nativo": 5313,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 145,
+        "caracteres_texto_nativo": 5350,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 146,
+        "caracteres_texto_nativo": 5337,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 147,
+        "caracteres_texto_nativo": 5418,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 148,
+        "caracteres_texto_nativo": 5237,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 149,
+        "caracteres_texto_nativo": 5318,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 150,
+        "caracteres_texto_nativo": 5272,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 151,
+        "caracteres_texto_nativo": 5334,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 152,
+        "caracteres_texto_nativo": 5364,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 153,
+        "caracteres_texto_nativo": 5391,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 154,
+        "caracteres_texto_nativo": 5331,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 155,
+        "caracteres_texto_nativo": 5283,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 156,
+        "caracteres_texto_nativo": 5341,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 157,
+        "caracteres_texto_nativo": 5314,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 158,
+        "caracteres_texto_nativo": 5324,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 159,
+        "caracteres_texto_nativo": 5203,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 160,
+        "caracteres_texto_nativo": 5278,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 161,
+        "caracteres_texto_nativo": 5267,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 162,
+        "caracteres_texto_nativo": 3104,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 163,
+        "caracteres_texto_nativo": 4872,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 164,
+        "caracteres_texto_nativo": 4479,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 165,
+        "caracteres_texto_nativo": 4378,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 166,
+        "caracteres_texto_nativo": 1663,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 167,
+        "caracteres_texto_nativo": 4719,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 168,
+        "caracteres_texto_nativo": 4617,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 169,
+        "caracteres_texto_nativo": 4652,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 170,
+        "caracteres_texto_nativo": 4613,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 171,
+        "caracteres_texto_nativo": 4756,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 172,
+        "caracteres_texto_nativo": 4550,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 173,
+        "caracteres_texto_nativo": 4860,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 174,
+        "caracteres_texto_nativo": 4495,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 175,
+        "caracteres_texto_nativo": 4403,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 176,
+        "caracteres_texto_nativo": 1683,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 177,
+        "caracteres_texto_nativo": 4717,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 178,
+        "caracteres_texto_nativo": 4613,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 179,
+        "caracteres_texto_nativo": 4614,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 180,
+        "caracteres_texto_nativo": 4536,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 181,
+        "caracteres_texto_nativo": 4731,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 182,
+        "caracteres_texto_nativo": 4500,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 183,
+        "caracteres_texto_nativo": 4835,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 184,
+        "caracteres_texto_nativo": 4451,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 185,
+        "caracteres_texto_nativo": 4404,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 186,
+        "caracteres_texto_nativo": 1671,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 187,
+        "caracteres_texto_nativo": 4680,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 188,
+        "caracteres_texto_nativo": 4586,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 189,
+        "caracteres_texto_nativo": 4601,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 190,
+        "caracteres_texto_nativo": 4522,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 191,
+        "caracteres_texto_nativo": 4697,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 192,
+        "caracteres_texto_nativo": 4466,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 193,
+        "caracteres_texto_nativo": 4847,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 194,
+        "caracteres_texto_nativo": 4502,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 195,
+        "caracteres_texto_nativo": 4416,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 196,
+        "caracteres_texto_nativo": 1681,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 197,
+        "caracteres_texto_nativo": 4708,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 198,
+        "caracteres_texto_nativo": 4614,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 199,
+        "caracteres_texto_nativo": 4624,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 200,
+        "caracteres_texto_nativo": 4523,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 201,
+        "caracteres_texto_nativo": 4697,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 202,
+        "caracteres_texto_nativo": 4488,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 203,
+        "caracteres_texto_nativo": 4840,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 204,
+        "caracteres_texto_nativo": 4459,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 205,
+        "caracteres_texto_nativo": 4426,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 206,
+        "caracteres_texto_nativo": 1675,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 207,
+        "caracteres_texto_nativo": 4668,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 208,
+        "caracteres_texto_nativo": 4589,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 209,
+        "caracteres_texto_nativo": 4582,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 210,
+        "caracteres_texto_nativo": 4520,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 211,
+        "caracteres_texto_nativo": 4681,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 212,
+        "caracteres_texto_nativo": 4500,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 213,
+        "caracteres_texto_nativo": 4818,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 214,
+        "caracteres_texto_nativo": 4437,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 215,
+        "caracteres_texto_nativo": 4410,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 216,
+        "caracteres_texto_nativo": 1679,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 217,
+        "caracteres_texto_nativo": 4687,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 218,
+        "caracteres_texto_nativo": 4584,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 219,
+        "caracteres_texto_nativo": 4594,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 220,
+        "caracteres_texto_nativo": 4508,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 221,
+        "caracteres_texto_nativo": 4659,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 222,
+        "caracteres_texto_nativo": 4425,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 223,
+        "caracteres_texto_nativo": 5157,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 224,
+        "caracteres_texto_nativo": 2259,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 225,
+        "caracteres_texto_nativo": 5210,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 226,
+        "caracteres_texto_nativo": 2249,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 227,
+        "caracteres_texto_nativo": 5209,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 228,
+        "caracteres_texto_nativo": 2269,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 229,
+        "caracteres_texto_nativo": 5203,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 230,
+        "caracteres_texto_nativo": 2264,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 231,
+        "caracteres_texto_nativo": 5206,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 232,
+        "caracteres_texto_nativo": 5219,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 233,
+        "caracteres_texto_nativo": 5227,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 234,
+        "caracteres_texto_nativo": 5183,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 235,
+        "caracteres_texto_nativo": 5218,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 236,
+        "caracteres_texto_nativo": 5259,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 237,
+        "caracteres_texto_nativo": 5294,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 238,
+        "caracteres_texto_nativo": 4758,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 239,
+        "caracteres_texto_nativo": 5270,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 240,
+        "caracteres_texto_nativo": 5052,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 241,
+        "caracteres_texto_nativo": 5276,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 242,
+        "caracteres_texto_nativo": 5215,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 243,
+        "caracteres_texto_nativo": 5395,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 244,
+        "caracteres_texto_nativo": 5293,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 245,
+        "caracteres_texto_nativo": 5293,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 246,
+        "caracteres_texto_nativo": 5098,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 247,
+        "caracteres_texto_nativo": 5300,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 248,
+        "caracteres_texto_nativo": 5197,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 249,
+        "caracteres_texto_nativo": 5217,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 250,
+        "caracteres_texto_nativo": 5179,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 251,
+        "caracteres_texto_nativo": 5353,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 252,
+        "caracteres_texto_nativo": 5359,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 253,
+        "caracteres_texto_nativo": 5336,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 254,
+        "caracteres_texto_nativo": 5263,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 255,
+        "caracteres_texto_nativo": 5283,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 256,
+        "caracteres_texto_nativo": 5201,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 257,
+        "caracteres_texto_nativo": 5393,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 258,
+        "caracteres_texto_nativo": 5291,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 259,
+        "caracteres_texto_nativo": 5382,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 260,
+        "caracteres_texto_nativo": 5169,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 261,
+        "caracteres_texto_nativo": 5230,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 262,
+        "caracteres_texto_nativo": 5267,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 263,
+        "caracteres_texto_nativo": 5305,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 264,
+        "caracteres_texto_nativo": 5211,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 265,
+        "caracteres_texto_nativo": 5233,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 266,
+        "caracteres_texto_nativo": 5227,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 267,
+        "caracteres_texto_nativo": 5232,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 268,
+        "caracteres_texto_nativo": 5140,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 269,
+        "caracteres_texto_nativo": 5297,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 270,
+        "caracteres_texto_nativo": 5270,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 271,
+        "caracteres_texto_nativo": 5332,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 272,
+        "caracteres_texto_nativo": 5193,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 273,
+        "caracteres_texto_nativo": 5379,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 274,
+        "caracteres_texto_nativo": 5205,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 275,
+        "caracteres_texto_nativo": 5306,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 276,
+        "caracteres_texto_nativo": 4829,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 277,
+        "caracteres_texto_nativo": 5423,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 278,
+        "caracteres_texto_nativo": 5195,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 279,
+        "caracteres_texto_nativo": 5185,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 280,
+        "caracteres_texto_nativo": 3790,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 281,
+        "caracteres_texto_nativo": 4859,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 282,
+        "caracteres_texto_nativo": 4475,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 283,
+        "caracteres_texto_nativo": 2846,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 284,
+        "caracteres_texto_nativo": 4644,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 285,
+        "caracteres_texto_nativo": 4682,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 286,
+        "caracteres_texto_nativo": 4614,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 287,
+        "caracteres_texto_nativo": 2453,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 288,
+        "caracteres_texto_nativo": 4776,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 289,
+        "caracteres_texto_nativo": 4562,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 290,
+        "caracteres_texto_nativo": 2777,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 291,
+        "caracteres_texto_nativo": 4708,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 292,
+        "caracteres_texto_nativo": 4602,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 293,
+        "caracteres_texto_nativo": 4610,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 294,
+        "caracteres_texto_nativo": 2365,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 295,
+        "caracteres_texto_nativo": 4821,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 296,
+        "caracteres_texto_nativo": 4450,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 297,
+        "caracteres_texto_nativo": 2845,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 298,
+        "caracteres_texto_nativo": 4604,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 299,
+        "caracteres_texto_nativo": 4644,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 300,
+        "caracteres_texto_nativo": 4517,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 301,
+        "caracteres_texto_nativo": 2401,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 302,
+        "caracteres_texto_nativo": 4765,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 303,
+        "caracteres_texto_nativo": 4572,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 304,
+        "caracteres_texto_nativo": 2784,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 305,
+        "caracteres_texto_nativo": 4698,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 306,
+        "caracteres_texto_nativo": 4610,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 307,
+        "caracteres_texto_nativo": 4583,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 308,
+        "caracteres_texto_nativo": 2357,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 309,
+        "caracteres_texto_nativo": 4838,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 310,
+        "caracteres_texto_nativo": 4456,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 311,
+        "caracteres_texto_nativo": 2853,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 312,
+        "caracteres_texto_nativo": 4603,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 313,
+        "caracteres_texto_nativo": 4673,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 314,
+        "caracteres_texto_nativo": 4514,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 315,
+        "caracteres_texto_nativo": 2411,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 316,
+        "caracteres_texto_nativo": 4734,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 317,
+        "caracteres_texto_nativo": 4513,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 318,
+        "caracteres_texto_nativo": 2787,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 319,
+        "caracteres_texto_nativo": 4689,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 320,
+        "caracteres_texto_nativo": 4562,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 321,
+        "caracteres_texto_nativo": 4579,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 322,
+        "caracteres_texto_nativo": 2333,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 323,
+        "caracteres_texto_nativo": 390,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 324,
+        "caracteres_texto_nativo": 126,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 325,
+        "caracteres_texto_nativo": 196,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 326,
+        "caracteres_texto_nativo": 126,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 327,
+        "caracteres_texto_nativo": 0,
+        "vacia": true,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 328,
+        "caracteres_texto_nativo": 845,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      }
+    ],
+    "parser": "PyMuPDF",
+    "configuracion": {
+      "get_text": "text",
+      "sort": true
+    }
+  },
+  {
+    "archivo_pdf": "POLTECH_ficha_acople_mordaza_D25L30_8x10.pdf",
+    "archivo_md": "POLTECH_ficha_acople_mordaza_D25L30_8x10.md",
+    "bytes": 129457,
+    "sha256": "836a09b5f1d4c78f943882ba2f487406180499eb9a28779111b5dd64ca358aa4",
+    "paginas": 4,
+    "cifrado": false,
+    "clasificacion": "digital",
+    "paginas_vacias": [],
+    "errores_extraccion": [],
+    "caracteres_totales": 3582,
+    "detalle_paginas": [
+      {
+        "pagina": 1,
+        "caracteres_texto_nativo": 1687,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 2,
+        "caracteres_texto_nativo": 701,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 3,
+        "caracteres_texto_nativo": 708,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 4,
+        "caracteres_texto_nativo": 486,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      }
+    ],
+    "parser": "PyMuPDF",
+    "configuracion": {
+      "get_text": "text",
+      "sort": true
+    }
+  },
+  {
+    "archivo_pdf": "SKYSMOTOR_manual_NMRV30_40_50_NEMA.pdf",
+    "archivo_md": "SKYSMOTOR_manual_NMRV30_40_50_NEMA.md",
+    "bytes": 1093864,
+    "sha256": "8317f0de3707173cfda64c5299a5338d45c7a4bd64c21adc0206cb503d3f0add",
+    "paginas": 7,
+    "cifrado": false,
+    "clasificacion": "digital",
+    "paginas_vacias": [],
+    "errores_extraccion": [],
+    "caracteres_totales": 11345,
+    "detalle_paginas": [
+      {
+        "pagina": 1,
+        "caracteres_texto_nativo": 53,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 2,
+        "caracteres_texto_nativo": 917,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 3,
+        "caracteres_texto_nativo": 1179,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 4,
+        "caracteres_texto_nativo": 1148,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 5,
+        "caracteres_texto_nativo": 1140,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 6,
+        "caracteres_texto_nativo": 2509,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 7,
+        "caracteres_texto_nativo": 4399,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      }
+    ],
+    "parser": "PyMuPDF",
+    "configuracion": {
+      "get_text": "text",
+      "sort": true
+    }
+  },
+  {
+    "archivo_pdf": "TBI_MOTION_catalogo_husillos_bolas_SFU.pdf",
+    "archivo_md": "TBI_MOTION_catalogo_husillos_bolas_SFU.md",
+    "bytes": 2192263,
+    "sha256": "26016dac2c8238f16e47eaaaced604f087184be591f9b41e246af3f29ff49665",
+    "paginas": 88,
+    "cifrado": true,
+    "clasificacion": "digital",
+    "paginas_vacias": [],
+    "errores_extraccion": [],
+    "caracteres_totales": 254486,
+    "detalle_paginas": [
+      {
+        "pagina": 1,
+        "caracteres_texto_nativo": 3532,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 2,
+        "caracteres_texto_nativo": 3077,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 3,
+        "caracteres_texto_nativo": 1686,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 4,
+        "caracteres_texto_nativo": 1347,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 5,
+        "caracteres_texto_nativo": 3625,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 6,
+        "caracteres_texto_nativo": 2774,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 7,
+        "caracteres_texto_nativo": 1452,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 8,
+        "caracteres_texto_nativo": 1749,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 9,
+        "caracteres_texto_nativo": 4124,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 10,
+        "caracteres_texto_nativo": 2639,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 11,
+        "caracteres_texto_nativo": 2512,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 12,
+        "caracteres_texto_nativo": 785,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 13,
+        "caracteres_texto_nativo": 1963,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 14,
+        "caracteres_texto_nativo": 1990,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 15,
+        "caracteres_texto_nativo": 2517,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 16,
+        "caracteres_texto_nativo": 2100,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 17,
+        "caracteres_texto_nativo": 3273,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 18,
+        "caracteres_texto_nativo": 3241,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 19,
+        "caracteres_texto_nativo": 2228,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 20,
+        "caracteres_texto_nativo": 858,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 21,
+        "caracteres_texto_nativo": 1807,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 22,
+        "caracteres_texto_nativo": 2588,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 23,
+        "caracteres_texto_nativo": 3199,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 24,
+        "caracteres_texto_nativo": 4090,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 25,
+        "caracteres_texto_nativo": 1602,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 26,
+        "caracteres_texto_nativo": 4654,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 27,
+        "caracteres_texto_nativo": 3262,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 28,
+        "caracteres_texto_nativo": 4965,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 29,
+        "caracteres_texto_nativo": 3035,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 30,
+        "caracteres_texto_nativo": 5004,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 31,
+        "caracteres_texto_nativo": 3612,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 32,
+        "caracteres_texto_nativo": 3161,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 33,
+        "caracteres_texto_nativo": 1440,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 34,
+        "caracteres_texto_nativo": 695,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 35,
+        "caracteres_texto_nativo": 1446,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 36,
+        "caracteres_texto_nativo": 2651,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 37,
+        "caracteres_texto_nativo": 6420,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 38,
+        "caracteres_texto_nativo": 4919,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 39,
+        "caracteres_texto_nativo": 1278,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 40,
+        "caracteres_texto_nativo": 976,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 41,
+        "caracteres_texto_nativo": 788,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 42,
+        "caracteres_texto_nativo": 972,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 43,
+        "caracteres_texto_nativo": 1293,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 44,
+        "caracteres_texto_nativo": 4465,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 45,
+        "caracteres_texto_nativo": 3232,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 46,
+        "caracteres_texto_nativo": 1102,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 47,
+        "caracteres_texto_nativo": 2048,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 48,
+        "caracteres_texto_nativo": 4037,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 49,
+        "caracteres_texto_nativo": 2116,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 50,
+        "caracteres_texto_nativo": 2747,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 51,
+        "caracteres_texto_nativo": 2068,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 52,
+        "caracteres_texto_nativo": 4375,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 53,
+        "caracteres_texto_nativo": 2104,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 54,
+        "caracteres_texto_nativo": 3368,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 55,
+        "caracteres_texto_nativo": 4218,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 56,
+        "caracteres_texto_nativo": 2434,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 57,
+        "caracteres_texto_nativo": 3542,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 58,
+        "caracteres_texto_nativo": 2940,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 59,
+        "caracteres_texto_nativo": 4595,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 60,
+        "caracteres_texto_nativo": 5708,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 61,
+        "caracteres_texto_nativo": 5307,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 62,
+        "caracteres_texto_nativo": 6240,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 63,
+        "caracteres_texto_nativo": 5535,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 64,
+        "caracteres_texto_nativo": 2201,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 65,
+        "caracteres_texto_nativo": 5028,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 66,
+        "caracteres_texto_nativo": 4654,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 67,
+        "caracteres_texto_nativo": 3333,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 68,
+        "caracteres_texto_nativo": 1333,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 69,
+        "caracteres_texto_nativo": 1011,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 70,
+        "caracteres_texto_nativo": 669,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 71,
+        "caracteres_texto_nativo": 1337,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 72,
+        "caracteres_texto_nativo": 4656,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 73,
+        "caracteres_texto_nativo": 3179,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 74,
+        "caracteres_texto_nativo": 1226,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 75,
+        "caracteres_texto_nativo": 2033,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 76,
+        "caracteres_texto_nativo": 3597,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 77,
+        "caracteres_texto_nativo": 2750,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 78,
+        "caracteres_texto_nativo": 3558,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 79,
+        "caracteres_texto_nativo": 2180,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 80,
+        "caracteres_texto_nativo": 2438,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 81,
+        "caracteres_texto_nativo": 1790,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 82,
+        "caracteres_texto_nativo": 2519,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 83,
+        "caracteres_texto_nativo": 2796,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 84,
+        "caracteres_texto_nativo": 2840,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 85,
+        "caracteres_texto_nativo": 4567,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 86,
+        "caracteres_texto_nativo": 4746,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 87,
+        "caracteres_texto_nativo": 4530,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 88,
+        "caracteres_texto_nativo": 2005,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      }
+    ],
+    "parser": "PyMuPDF",
+    "configuracion": {
+      "get_text": "text",
+      "sort": true
+    }
+  },
+  {
+    "archivo_pdf": "TBI_MOTION_unidades_soporte_BK_BF.pdf",
+    "archivo_md": "TBI_MOTION_unidades_soporte_BK_BF.md",
+    "bytes": 1142783,
+    "sha256": "f2d4a9472213fd4b62e119b8215c2ca5512d1811db0f8ddcd962f4daa1e85495",
+    "paginas": 35,
+    "cifrado": true,
+    "clasificacion": "digital",
+    "paginas_vacias": [],
+    "errores_extraccion": [],
+    "caracteres_totales": 86720,
+    "detalle_paginas": [
+      {
+        "pagina": 1,
+        "caracteres_texto_nativo": 1575,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 2,
+        "caracteres_texto_nativo": 2566,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 3,
+        "caracteres_texto_nativo": 2714,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 4,
+        "caracteres_texto_nativo": 2602,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 5,
+        "caracteres_texto_nativo": 2912,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 6,
+        "caracteres_texto_nativo": 2411,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 7,
+        "caracteres_texto_nativo": 2944,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 8,
+        "caracteres_texto_nativo": 1800,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 9,
+        "caracteres_texto_nativo": 1712,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 10,
+        "caracteres_texto_nativo": 594,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 11,
+        "caracteres_texto_nativo": 3274,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 12,
+        "caracteres_texto_nativo": 1871,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 13,
+        "caracteres_texto_nativo": 1554,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 14,
+        "caracteres_texto_nativo": 2173,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 15,
+        "caracteres_texto_nativo": 4025,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 16,
+        "caracteres_texto_nativo": 1947,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 17,
+        "caracteres_texto_nativo": 3790,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 18,
+        "caracteres_texto_nativo": 2663,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 19,
+        "caracteres_texto_nativo": 4423,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 20,
+        "caracteres_texto_nativo": 2278,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 21,
+        "caracteres_texto_nativo": 3865,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 22,
+        "caracteres_texto_nativo": 1531,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 23,
+        "caracteres_texto_nativo": 2924,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 24,
+        "caracteres_texto_nativo": 2277,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 25,
+        "caracteres_texto_nativo": 4051,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 26,
+        "caracteres_texto_nativo": 1118,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 27,
+        "caracteres_texto_nativo": 2967,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 28,
+        "caracteres_texto_nativo": 2087,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 29,
+        "caracteres_texto_nativo": 4737,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 30,
+        "caracteres_texto_nativo": 2051,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 31,
+        "caracteres_texto_nativo": 4967,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 32,
+        "caracteres_texto_nativo": 92,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 33,
+        "caracteres_texto_nativo": 681,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 34,
+        "caracteres_texto_nativo": 1362,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      },
+      {
+        "pagina": 35,
+        "caracteres_texto_nativo": 2182,
+        "vacia": false,
+        "error": null,
+        "visual_autocontenido": false
+      }
+    ],
+    "parser": "PyMuPDF",
+    "configuracion": {
+      "get_text": "text",
+      "sort": true
+    }
+  }
+]

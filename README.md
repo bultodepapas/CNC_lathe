@@ -13,6 +13,9 @@ X, Z y Z tándem.
 - `linuxcnc/configs/torno_v3/`: configuración operativa que debe permanecer
   autocontenida para que las rutas relativas de LinuxCNC funcionen.
 - `docs/hardware.md`: inventario mecánico, eléctrico y de control recibido.
+- `output/pdf/componentes/`: datasheets y manuales originales descargados.
+- `output/docs/componentes/`: copias Markdown, fuentes, hashes, auditoría e
+  índice de correspondencia de los componentes.
 - `docs/configuration-audit.md`: auditoría inicial y puntos pendientes.
 - `docs/incidente-desincronizacion-z.md`: diagnóstico y plan para evitar que un
   motor Z continúe cuando el otro se atasca o entra en alarma.
